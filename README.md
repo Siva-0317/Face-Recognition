@@ -1,6 +1,6 @@
 # Face Recognition System
 
-A simple Python project (suitable for a 12th‑grade project) that uses OpenCV and face-recognition to register faces via webcam and recognize them in real time. Face encodings are stored locally so data persists between runs.
+A simple Python project that uses OpenCV and face-recognition to register faces via webcam and recognize them in real time. Face encodings are stored locally so data persists between runs.
 
 ## Features
 - Register new faces using your webcam
